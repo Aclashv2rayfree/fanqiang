@@ -22,7 +22,9 @@
 免费节点
 
 ```
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@190.93.245.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/?ed=2560#15%7CCR_speednode_0009
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.65:8880?allowInsecure=1&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/#14%7CGB_speednode_0031
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@194.76.18.20:8880?allowInsecure=0&sni=reedfree8mahsang2.redorg.ir&type=ws&host=reedfree8mahsang2.redorg.ir&path=/#14%7CKZ_speednode_0042
+trojan://Aimer@5.182.84.244:443?allowInsecure=0&sni=epme.ambercc.filegear-sg.me&type=ws&host=epme.ambercc.filegear-sg.me&path=/?ed=2560#14%7CRU_speednode_0064
 ```
 分享免费VPN
 * [freevpn](https://github.com/asdsadsddas123/freevpn)
@@ -30,4 +32,4 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@190.93.245.20:8880?allowInsecure=0&
 * [clashnodedfree](https://github.com/asdsadsddas123/clashnodedfree)
 * [shadowsocksfree](https://github.com/asdsadsddas123/shadowsocksfree)
 * [tizi](https://github.com/asdsadsddas123/tizi)
-### 更新时间 2025-06-03 01:37:00 
+### 更新时间 2025-06-03 01:41:08 
