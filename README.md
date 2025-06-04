@@ -22,7 +22,7 @@
 免费节点
 
 ```
-vless://4ea841c1-0dc1-4563-9f47-deba8407cb4e@104.26.14.85:8080?security=none&type=ws&host=J9.oDOtZrHUoO.ZuLAIR.ORg.&encryption=none&type=ws&path=%2F%3Fed%3D2048&sni=J9.oDOtZrHUoO.ZuLAIR.ORg.&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
+vless://51fda508-20aa-419e-b4c3-3a6202411412@172.67.73.163:8080?security=none&type=ws&host=18.6na7PY43IT.zuLaiR.Org.&encryption=none&type=ws&path=%2F&sni=18.6na7PY43IT.zuLaiR.Org.&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD_7
 ```
 分享免费VPN
 * [freevpn](https://github.com/asdsadsddas123/freevpn)
@@ -30,4 +30,4 @@ vless://4ea841c1-0dc1-4563-9f47-deba8407cb4e@104.26.14.85:8080?security=none&typ
 * [clashnodedfree](https://github.com/asdsadsddas123/clashnodedfree)
 * [shadowsocksfree](https://github.com/asdsadsddas123/shadowsocksfree)
 * [tizi](https://github.com/asdsadsddas123/tizi)
-### 更新时间 2025-06-04 00:07:00 
+### 更新时间 2025-06-04 00:08:31 
