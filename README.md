@@ -79,7 +79,6 @@ hysteria2://5d110f18-5a37-4db3-8cf6-f0bced38a1ae@154.85.18.233:443?insecure=1&sn
 hysteria2://5d110f18-5a37-4db3-8cf6-f0bced38a1ae@89.185.27.133:443?insecure=1&sni=www.bing.com#12%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%AD%F0%9F%87%B0
 hysteria2://nfsn666@ld-arm.nfsn666.gq:8888?insecure=1&sni=ld-arm.nfsn666.gq#12%7C%E2%9A%A1%EF%B8%8F%20%40vpnserverrr%20%28Hysteria%29%20%233
 hysteria2://18463200c271aa6d@45.63.116.113:443?insecure=1&sni=vkvd127.mycdn.me&obfs=salamander&obfs-password=6c80ade6#12%7C%E2%9A%A1%EF%B8%8F%20%40vpnserverrr%20%28Hysteria%29%20%234
-ss://YWVzLTI1Ni1jZmI6cWF3c3p4YzEyMw==@18.143.171.45:443#13%7Ctg%E9%A2%91%E9%81%93%3A%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNDUwY2VjZmI5M2Y=@121.127.231.217:17161#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 trojan://e4af2638-bb12-4e4a-84f1-a032e23ca63f@usla.mjt000.com:443?allowInsecure=0&sni=usla.mjt000.com#13%2C14%7C%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MGE5MzBjMTdmZjA=@43.226.17.11:43361#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
@@ -438,4 +437,4 @@ vless://9a3afeb6-8105-4a3d-b7cd-8d484edec28a@151.101.130.133:80?allowInsecure=0&
 * [clashnodedfree](https://github.com/asdsadsddas123/clashnodedfree)
 * [shadowsocksfree](https://github.com/asdsadsddas123/shadowsocksfree)
 * [tizi](https://github.com/asdsadsddas123/tizi)
-### 更新时间 2025-06-05 16:06:00 
+### 更新时间 2025-06-05 16:09:49 
