@@ -72,8 +72,8 @@ hysteria2://862e90e1-2f26-4506-b8b9-0adf20da05fc@40.233.73.221:47262?insecure=1&
 hysteria2://dongtaiwang.com@51.159.111.32:31180?insecure=1&sni=apple.com#12%7CChannel%20id%3A%20%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%B7
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HrfCfh7Ag6aaZ5rivN3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI0My4yNDcuMTM1LjIiLCAicG9ydCI6IDIwMzMyLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiODAzN2NlMDAtYzg2MC00MjEzLWI4ODgtYmU1YzdlZDZlYTQ4In0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNDUwY2VjZmI5M2Y=@121.127.231.229:42519#13%7C%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
+ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8766#13%7C%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HuPCfh6wg5paw5Yqg5Z2hNHxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIzOC40Ny4xNzYuMjUxIiwgInBvcnQiOiA1NjA1MSwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjJiY2EzNTY5LTA2NjItNDdmNy1mZGY4LTQyMWYzMGU3MWY0NCJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HsPCfh7cg6Z+p5Zu9MnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI0NS45NC42OC4xMzAiLCAicG9ydCI6IDE4NzQwLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiMGQ5MGQzMzEtNmM3MC00Y2I5LTg1NWItYzExYmNmZDIyN2M0In0=
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.162.228.112:80?allowInsecure=0&sni=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&path=/Telegram:@ShadowProxy66/?ed=2560#15%7CAM_speednode_0001
 vless://d6b65f08-f2ea-4871-aa7f-1ffeb81447d1@92.112.23.189:44073?allowInsecure=0&sni=yahoo.com&fp=chrome&security=tls#15%7CDE_speednode_0041
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@217.179.91.142:34045?allowInsecure=0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&security=tls#15%7CGB_speednode_0046
@@ -118,4 +118,4 @@ vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@103.12.77.78:34045?allowInsecure=0&
 * [clashnodedfree](https://github.com/asdsadsddas123/clashnodedfree)
 * [shadowsocksfree](https://github.com/asdsadsddas123/shadowsocksfree)
 * [tizi](https://github.com/asdsadsddas123/tizi)
-### 更新时间 2025-06-13 16:06:00 
+### 更新时间 2025-06-13 16:09:53 
