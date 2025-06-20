@@ -68,6 +68,7 @@ ss://YWVzLTI1Ni1nY206MjY0NzI3MzE3ZWY2@kr9v1.3ci.xyz:34808#13%7C%F0%9F%87%AF%F0%9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+Hr/Cfh7Ug5pel5pysNHxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI0NS4xNTkuNTAuMTMxIiwgInBvcnQiOiAxMDMzMSwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjBhNzVlZDM1LTExMzgtNDk5MS04OGEwLTliMmE1OTcwMmZjZSJ9
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@125.141.26.14:5344#13%7C%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD3%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTMsMTR8576O5Zu9fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIlNzc3Nzc3NXLjIyMjU2MC5YWXoiLCAicG9ydCI6ICI4MCIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjM5M2IxMDYxLWQ2MTUtNDU5YS04NjE2LTNmOTQ0N2JkZmY1YSIsICJzbmkiOiAiIiwgImhvc3QiOiAic3Nzc3Nzc3cuMjIyNTYwLnh5eiIsICJwYXRoIjogIi9pWGZpMG1NbVBZcDlVQTZZMzR6V1VrNkpVUSJ9
+ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8774#13%7C%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTMsMTR8576O5Zu9M3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICJpSWlpSTguMjIyNTYwLnhZWiIsICJwb3J0IjogIjgwIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiMzkzYjEwNjEtZDYxNS00NTlhLTg2MTYtM2Y5NDQ3YmRmZjVhIiwgInNuaSI6ICIiLCAiaG9zdCI6ICJpaWlpaTguMjIyNTYwLnh5eiIsICJwYXRoIjogIi9pWGZpMG1NbVBZcDlVQTZZMzR6V1VrNkpVUSJ9
 vless://5a186a86-1d2c-43b1-85d9-1ad3f60f6be7@tel.vpncustomize.reziazaran.ir:37823?allowInsecure=0&sni=divarcdn.com#15%7CES_speednode_0005
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@160.250.65.132:34045?allowInsecure=0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=firefox&security=tls#15%7CNN_speednode_0012
@@ -93,4 +94,4 @@ vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@103.12.77.90:34045?allowInsecure=0&
 * [clashnodedfree](https://github.com/asdsadsddas123/clashnodedfree)
 * [shadowsocksfree](https://github.com/asdsadsddas123/shadowsocksfree)
 * [tizi](https://github.com/asdsadsddas123/tizi)
-### 更新时间 2025-06-20 08:04:00 
+### 更新时间 2025-06-20 08:06:26 
